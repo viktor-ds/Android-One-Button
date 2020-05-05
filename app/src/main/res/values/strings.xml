@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">One Button</string>
+    <string name="change_text">Change Text on Every Press</string>
+    <string name="button">Button</string>
+</resources>
